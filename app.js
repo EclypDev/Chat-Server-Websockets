@@ -1,4 +1,3 @@
-// WEB SOCKET Y EXPRESS Y HTTP FOR CONNECTIONS AND PUBLIC/INDEX.HTML TO /
 const express = require('express');
 const http = require('http');
 const ws = require('ws');
